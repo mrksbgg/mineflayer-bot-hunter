@@ -22,8 +22,6 @@ To run it, you need to install some addons for Mineflayer.
 
 `npm i mineflayer-pvp`
 
-`npm i mineflayer-dashboard`
-
 `npm i mineflayer-auto-eat`
 
 3) Change a arguments (like server port, server ip, and etc.)
@@ -67,7 +65,6 @@ Commands:
 
 `npm i mineflayer-pvp`
 
-`npm i mineflayer-dashboard`
 
 `npm i mineflayer-auto-eat`
 
@@ -78,7 +75,6 @@ Commands:
 
 Команды:
 .start - Начать охоту
-
 
 .stop - Остановить охоту
 
