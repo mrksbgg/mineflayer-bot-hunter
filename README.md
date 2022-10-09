@@ -25,6 +25,8 @@ To run it, you need to install some addons for Mineflayer.
 Commands:
 
 .start - Start hunting
+
+
 .stop - Stop hunting
 
 
@@ -55,5 +57,7 @@ Commands:
 
 Команды:
 .start - Начать охоту
+
+
 .stop - Остановить охоту
 
