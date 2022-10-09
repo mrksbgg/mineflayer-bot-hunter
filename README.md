@@ -3,6 +3,16 @@
 
 A hunter bot, that made on JavaScript with Mineflayer.
 
+----------------------
+
+!!!WARNING!!!
+
+IT DOESN'T SUPPORT VERSIONS ABOVE 1.18.2 BECAUSE OF MINEFLAYER
+
+END OF WARNING
+
+----------------------
+
 To run it, you need to install some addons for Mineflayer.
 
 1) Open directory with `main.js`, then open `cmd` in that directory.
@@ -36,6 +46,17 @@ Commands:
 ## Бот-охонтик на Mineflayer [RU]
 
 Бот-охотник, сделанный на JavaScript с Mineflayer.
+
+----------------------
+
+!!!ВНИМАНИЕ!!!
+
+СКРИПТ НЕ ПОДДЕРЖИВАЕТ ВЕРСИИ ВЫШЕ 1.18.2 ИЗ-ЗА МАЙНФЛЕЕРА.
+
+СПАСИБО ЗА ВНИМАНИЕ
+
+----------------------
+
 
 Что-бы его запустить, вам нужно установить некоторые аддоны для него.
 
