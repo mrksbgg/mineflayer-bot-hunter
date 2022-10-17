@@ -1,6 +1,6 @@
 const mineflayer = require("mineflayer");
 const {pathfinder, Movements, goals: {GoalNear, GoalBlock, GoalFollow}} = require('mineflayer-pathfinder');
-const bot = mineflayer.createBot({host: 'localhost', port: 25565, username: 'SenseBot'})
+const bot = mineflayer.createBot({host: 'IP', port: PORT, username: 'BOTNICKNAME'})
 const pvp = require('mineflayer-pvp').plugin
 const autoeat = require("mineflayer-auto-eat")
 
@@ -22,6 +22,8 @@ bot.once('spawn', function () {
     bot.chat('.stop - Stop hunt')
     bot.chat('--------------------------------------------------')
     bot.chat('made by mrksbgg')
+    bot.chat('If you find any bug, please open issue on')
+    bot.chat('https://github.com/mrksbgg/mineflayer-bot-hunter/issues')
 })
 
 
