@@ -29,6 +29,10 @@ To run it, you need to install some addons for Mineflayer.
 5) Wait...
 6) You're ready to go!
 
+TODO:
+
+fix swap back item after using totem
+
 
 Commands:
 
@@ -72,6 +76,12 @@ Commands:
 4) Выполните `npm main.js`
 5) Ожидайте...
 6) Готово!
+
+TODO:
+
+фиксануть баг: после использования тотема, предмет не возвращается в руку, потому что я тупой емае
+
+
 
 Команды:
 .start - Начать охоту
